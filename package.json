@@ -1,0 +1,22 @@
+{
+  "name": "hasura-week1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "author": "Aajad Kundu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "nodemon": "^1.12.5",
+    "request": "^2.83.0",
+    "require": "^2.4.20",
+    "set-cookie": "0.0.4"
+  }
+}
